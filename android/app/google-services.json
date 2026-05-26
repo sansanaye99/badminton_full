@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766000170006",
+    "project_id": "badminton-club-d3d01",
+    "storage_bucket": "badminton-club-d3d01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766000170006:android:ae454be529682361bf2137",
+        "android_client_info": {
+          "package_name": "com.example.badminton_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766000170006-r4s7uhu0lm79hr0lml3sfmakmi3df038.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBaz1UnVPDhPcYxoVbvYB5VDu4hC-a3tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766000170006-r4s7uhu0lm79hr0lml3sfmakmi3df038.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
