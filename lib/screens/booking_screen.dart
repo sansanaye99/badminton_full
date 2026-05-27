@@ -294,7 +294,11 @@ class _BookingScreenState extends ConsumerState<BookingScreen> {
                         return _buildTimeSlots(takenSlots);
                       },
                     ),
-  le.infinity,
+
+                    const SizedBox(height: 18),
+
+                    SizedBox(
+                      width: double.infinity,
                       height: 48,
                       child: FilledButton.icon(
                         onPressed: isLoading ? null : _createBooking,
